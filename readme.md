@@ -43,7 +43,7 @@
 
 ### Qué Hago
 
-- 🖥 **Diseño Web Responsivo**: Creación de sitios web móviles y amigables para el usuario.
+- 🖥 **Diseño Web Responsivo**: Creación de sitios web móviles y amigables para el usuario basado en la toma adecuada de requerimientos con el cliente.
 - 🎨 **UI/UX**: Enfocado en diseños limpios e intuitivos que ofrecen una experiencia de usuario fluida.
 - ⚡ **Optimización de Rendimiento**: Implementación de mejores prácticas para garantizar aplicaciones rápidas y escalables.
 
