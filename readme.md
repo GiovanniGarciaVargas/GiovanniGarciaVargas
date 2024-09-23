@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Giovanni García Vargas
 
-### Analista Programador, gusto por la investigación en tecnolgías tales como Realidad Aumentada, Realidad Virtual, Realidad Mixta, Reconocimiento de patrones
+### Analista Programador, gusto por la investigación en tecnologías tales como Realidad Aumentada, Realidad Virtual, Realidad Mixta, Reconocimiento de patrones
 
 ---
 
